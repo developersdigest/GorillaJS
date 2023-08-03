@@ -12,7 +12,6 @@ Gorilla JS is a Node.js application inspired by [Gorilla](https://github.com/Shi
 ```
 git clone https://github.com/developersdigest/GorillaJS
 cd GorillaJS
-npm install
 ```
 
 ## Usage
