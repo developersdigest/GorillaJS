@@ -20,14 +20,6 @@ cd GorillaJS
 node index.js create a text file with hello world 10 times  
 ```
 
-## Configuration
-
-The server URL and port are configured at the top of the script:
-
-```
-const SERVER_URL = "http://34.135.112.197:8000";
-```
-
 ## How It Works
 
 The script generates a unique user ID, takes user input from the command line, and sends a request to the server with the input and user ID. The server responds with a list of commands. The user selects a command by number, which is executed on their machine, and the output is printed to the console.
