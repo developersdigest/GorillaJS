@@ -18,7 +18,7 @@ npm install
 ## Usage
 
 ```
-node <filename.js> <user_input>
+node index.js create a text file with hello world 10 times  
 ```
 
 ## Configuration
