@@ -1,4 +1,4 @@
-# Gorilla JS
+# GorillaJS
 
 Gorilla JS is a Node.js application inspired by [Gorilla](https://github.com/ShishirPatil/gorilla). It allows users to send requests to a specified server and receive a list of commands that can be executed on the local machine.
 
