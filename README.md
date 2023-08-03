@@ -1,4 +1,5 @@
-# GorillaJS
+
+# Gorilla JS
 
 Gorilla JS is a Node.js application inspired by [Gorilla](https://github.com/ShishirPatil/gorilla). It allows users to send requests to a specified server and receive a list of commands that can be executed on the local machine.
 
@@ -9,8 +10,8 @@ Gorilla JS is a Node.js application inspired by [Gorilla](https://github.com/Shi
 ## Installation
 
 ```
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/developersdigest/GorillaJS
+cd GorillaJS
 npm install
 ```
 
@@ -47,3 +48,4 @@ Unless required by applicable law or agreed to in writing, software distributed 
 ## Contributing
 
 Contributions are welcome. Please submit a pull request or create an issue to discuss the changes you propose.
+
