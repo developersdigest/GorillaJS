@@ -17,7 +17,7 @@ cd GorillaJS
 ## Usage
 
 ```
-node index.js create a text file with hello world 10 times  
+node index.js whats the command to create an script.js style.css and index.html?
 ```
 
 ## How It Works
