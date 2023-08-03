@@ -17,7 +17,7 @@ cd GorillaJS
 ## Usage
 
 ```
-node index.js whats the command to create an script.js style.css and index.html?
+node index.js 'what is the command to create an script.js style.css and index.html?'
 ```
 
 ## How It Works
